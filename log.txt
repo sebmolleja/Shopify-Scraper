@@ -1,0 +1,11 @@
+[2025-06-09 23:50:14.016391] Initial product list fetched. Monitoring for new products...
+[2025-06-09 23:50:44.274478] Fetched product list. Total products found: 11
+[2025-06-09 23:53:21.172362] Initial product list fetched. Monitoring for new products...
+[2025-06-09 23:53:51.412190] Fetched product list. Total products found: 12
+[2025-06-09 23:53:51.412190] New products found! {'/products/fake-test-product-123'}
+[2025-06-09 23:54:21.977128] Fetched product list. Total products found: 12
+[2025-06-09 23:54:55.024273] Initial product list fetched. Monitoring for new products...
+[2025-06-09 23:55:25.542439] Fetched product list. Total products found: 11
+[2025-06-09 23:55:55.791437] Fetched product list. Total products found: 11
+[2025-06-09 23:56:26.034055] Fetched product list. Total products found: 11
+[2025-06-09 23:56:56.287716] Fetched product list. Total products found: 11
