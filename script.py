@@ -2,7 +2,7 @@ import requests, time, re, datetime
 
 URL = "https://unico13.com/collections/watches"
 WEBHOOK_URL = "https://discord.com/api/webhooks/1381803368292290691/oXLHxSMTldCNrFvg7Vt2Ml3ZBNgLixL6hzD99s1yi4WmqEdfm6TgXu9FAaqD2ne508Pw"  # Replace with your real one
-SLEEP = 30  # 1 minute for faster monitoring
+SLEEP = 30  # change time as needed
 seen = set()
 
 def fetch_ids():
@@ -23,14 +23,14 @@ def notify_discord(new_items):
         full_url = f"https://unico13.com{item}"
         product_name = parse_product_name(item)
         
-        msg = f"🆕 **New Product Available!**\n" \
-              f"⌚️**{product_name}**\n" \
-              f"🔗 {full_url}\n" \
-              f"--------------------------"
+        msg =   f"🆕 **New Product Available!**\n" \
+                f"⌚️**{product_name}**\n" \
+                f"🔗 {full_url}\n" \
+                f"--------------------------"
         messages.append(msg)
-  
+
     content = "\n\n".join(messages) + "\n\n*Stay tuned for more drops! 🚀*"
-  
+
     response = requests.post(WEBHOOK_URL, json={"content": content})
     if response.status_code != 204:
         print("Failed to send Discord notification:", response.text)
