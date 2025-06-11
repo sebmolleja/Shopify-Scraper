@@ -2,7 +2,7 @@ import requests, time, re, datetime
 
 URL = "https://unico13.com/collections/watches"
 WEBHOOK_URL = "https://discord.com/api/webhooks/1381803368292290691/oXLHxSMTldCNrFvg7Vt2Ml3ZBNgLixL6hzD99s1yi4WmqEdfm6TgXu9FAaqD2ne508Pw"  # Replace with your real one
-SLEEP = 30  # change time as needed
+SLEEP = 20 # change time as needed
 seen = set()
 
 def fetch_ids():
