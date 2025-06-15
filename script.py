@@ -1,7 +1,11 @@
 import requests, time, re, datetime
+from dotenv import load_dotenv
+import os
 
-URL = "https://unico13.com/collections/watches"
-WEBHOOK_URL = "https://discord.com/api/webhooks/1383853671715962970/8xemnYMc7MRhlpuC11gOZHo9huzjzcoUqc9zxrK1VElTIcF8OKRPm1PaNeHYx2AMy4Dg"  
+load_dotenv()
+
+URL = os.getenv("URL")
+WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 SLEEP = 20 # change time as needed
 seen = set()
 
