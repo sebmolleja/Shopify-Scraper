@@ -9,3 +9,42 @@
 [2025-06-09 23:55:55.791437] Fetched product list. Total products found: 11
 [2025-06-09 23:56:26.034055] Fetched product list. Total products found: 11
 [2025-06-09 23:56:56.287716] Fetched product list. Total products found: 11
+[2025-06-10 00:49:28.238100] Initial product list fetched. Monitoring for new products...
+[2025-06-10 00:49:58.502128] Fetched product list. Total products found: 12
+[2025-06-10 00:49:58.503128] New products found! {'/products/fake-test-product-123'}
+[2025-06-10 00:50:29.270707] Fetched product list. Total products found: 12
+[2025-06-10 00:51:46.447545] Initial product list fetched. Monitoring for new products...
+[2025-06-10 00:51:47.710436] Fetched product list. Total products found: 12
+[2025-06-10 00:51:47.710436] New products found! {'/products/fake-test-product-123'}
+[2025-06-10 00:51:49.158287] Fetched product list. Total products found: 12
+[2025-06-10 00:51:50.411323] Fetched product list. Total products found: 12
+[2025-06-10 00:51:51.652488] Fetched product list. Total products found: 12
+[2025-06-10 00:51:52.883552] Fetched product list. Total products found: 12
+[2025-06-10 00:51:54.118897] Fetched product list. Total products found: 12
+[2025-06-10 00:51:55.333725] Fetched product list. Total products found: 12
+[2025-06-10 00:51:56.594624] Fetched product list. Total products found: 12
+[2025-06-10 00:51:57.822502] Fetched product list. Total products found: 12
+[2025-06-10 00:51:59.087104] Fetched product list. Total products found: 12
+[2025-06-10 00:52:00.326538] Fetched product list. Total products found: 12
+[2025-06-10 00:52:01.756540] Fetched product list. Total products found: 12
+[2025-06-10 00:52:04.704003] Initial product list fetched. Monitoring for new products...
+[2025-06-10 00:52:34.938628] Fetched product list. Total products found: 12
+[2025-06-10 00:52:34.939628] New products found! {'/products/fake-test-product-123'}
+[2025-06-10 00:53:01.182752] Initial product list fetched. Monitoring for new products...
+[2025-06-10 00:53:21.422532] Fetched product list. Total products found: 11
+[2025-06-10 00:53:41.683620] Fetched product list. Total products found: 11
+[2025-06-10 00:54:01.936310] Fetched product list. Total products found: 11
+[2025-06-10 00:54:22.157181] Fetched product list. Total products found: 11
+[2025-06-10 00:54:42.394601] Fetched product list. Total products found: 11
+[2025-06-13 23:57:39.372662] Initial product list fetched. Monitoring for new products...
+[2025-06-13 23:57:59.639356] Fetched product list. Total products found: 11
+[2025-06-15 13:04:00.506422] Initial product list fetched. Monitoring for new products...
+[2025-06-15 13:04:20.748428] Fetched product list. Total products found: 11
+[2025-06-15 13:04:40.989343] Fetched product list. Total products found: 11
+[2025-06-15 13:05:01.227347] Fetched product list. Total products found: 11
+[2025-06-15 13:05:21.463404] Fetched product list. Total products found: 11
+[2025-06-15 13:05:42.157013] Fetched product list. Total products found: 11
+[2025-06-15 13:06:02.683004] Fetched product list. Total products found: 11
+[2025-06-15 13:06:22.921835] Fetched product list. Total products found: 11
+[2025-06-15 13:06:43.669300] Fetched product list. Total products found: 11
+[2025-06-15 13:07:04.200559] Fetched product list. Total products found: 11

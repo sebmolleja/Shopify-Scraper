@@ -1,7 +1,7 @@
 import requests, time, re, datetime
 
 URL = "https://unico13.com/collections/watches"
-WEBHOOK_URL = "https://discord.com/api/webhooks/1381803368292290691/oXLHxSMTldCNrFvg7Vt2Ml3ZBNgLixL6hzD99s1yi4WmqEdfm6TgXu9FAaqD2ne508Pw"  # Replace with your real one
+WEBHOOK_URL = "https://discord.com/api/webhooks/1383853671715962970/8xemnYMc7MRhlpuC11gOZHo9huzjzcoUqc9zxrK1VElTIcF8OKRPm1PaNeHYx2AMy4Dg"  
 SLEEP = 20 # change time as needed
 seen = set()
 
