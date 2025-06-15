@@ -1,6 +1,6 @@
 import requests, time, re, datetime
 
-URL = "https://unico13.com/collections/watches"
+URL = "DUMMY" # Replace with your real one
 WEBHOOK_URL = "DUMMY"  # Replace with your real one
 SLEEP = 20 # change time as needed
 seen = set()
