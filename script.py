@@ -6,7 +6,7 @@ load_dotenv()
 
 URL = os.getenv("URL")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
-SLEEP = 20 # change time as needed
+SLEEP = 10 # change time as needed
 seen = set()
 
 def fetch_ids():
