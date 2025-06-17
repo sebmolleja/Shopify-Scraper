@@ -27,10 +27,12 @@ def notify_discord(new_items):
         full_url = f"https://unico13.com{item}"
         product_name = parse_product_name(item)
         
-        msg =   f"🆕 **New Product Available!**\n" \
+        msg =   f"@everyone\n" \
+                f"🆕 **New Product Available!**\n" \
                 f"⌚️**{product_name}**\n" \
                 f"🔗 {full_url}\n" \
                 f"--------------------------"
+
         messages.append(msg)
 
     content = "\n\n".join(messages) + "\n\n*Stay tuned for more drops! 🚀*"
